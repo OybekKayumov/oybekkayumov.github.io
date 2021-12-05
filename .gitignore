@@ -18,6 +18,3 @@ node_modules
 
 # Ignore idea
 .idea
-
-indexWithDesktopData.html
-styleWithDesktopData.css
